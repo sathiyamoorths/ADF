@@ -1,0 +1,9 @@
+{
+	"name": "tamil-data-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c0ac671-7728-4ba8-9f04-1182da77f47b",
+		"tenantId": "34de4bf1-0c95-45d8-a8a8-b4a30f48fc58"
+	}
+}
